@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "department": "Engineering",
+      "role": "Software Engineer",
+      "salary": 60000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "department": "Marketing",
+      "role": "Marketing Specialist",
+      "salary": 45000
+    },
+    {
+      "id": 3,
+      "name": "Samuel Green",
+      "age": 28,
+      "department": "Sales",
+      "role": "Sales Representative",
+      "salary": 50000
+    },
+    {
+      "id": 4,
+      "name": "Emily Johnson",
+      "age": 35,
+      "department": "Human Resources",
+      "role": "HR Manager",
+      "salary": 65000
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "age": 40,
+      "department": "Finance",
+      "role": "Financial Analyst",
+      "salary": 70000
+    }
+  ]
+}
